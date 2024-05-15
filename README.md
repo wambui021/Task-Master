@@ -14,6 +14,7 @@ Task Manager App is a web application designed to help users manage their tasks 
 10. Real-time Updates: Experience real-time updates for added efficiency.
 11. Deadlines: Set deadlines for tasks to prioritize effectively.
 12. Add Collaborators: Collaborate with others by adding them to tasks.
+
 **Technologies Used**
 - HTML
 - CSS
